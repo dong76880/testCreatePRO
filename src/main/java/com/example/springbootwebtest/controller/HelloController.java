@@ -16,6 +16,9 @@ public class HelloController {
         return "Hello world!";  
     }  
       
+	/**
+	 * ²âÊÔhello/{name}
+	 */
     @RequestMapping("/hello/{name}")  
     public String hellName(@PathVariable String name){  
     	logger.debug("è®¿é—®helloName,Name={}",name);
