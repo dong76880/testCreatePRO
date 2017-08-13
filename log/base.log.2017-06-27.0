@@ -1,0 +1,14 @@
+2017-06-27 21:06:25,315 DEBUG (StringRedisController.java:26)- 访问set:key=123,value=456
+2017-06-27 21:16:18,541 DEBUG (StringRedisController.java:26)- 访问set:key=123,value=456
+2017-06-27 21:26:46,304 DEBUG (StringRedisController.java:26)- 访问set:key=123,value=456
+2017-06-27 21:28:14,338 DEBUG (StringRedisController.java:26)- 访问set:key=123,value=456
+2017-06-27 21:39:15,874 DEBUG (StringRedisController.java:25)- 访问set:key=123,value=456
+2017-06-27 21:43:45,207 DEBUG (StringRedisController.java:26)- 访问set:key=123,value=456
+2017-06-27 21:45:26,038 DEBUG (StringRedisController.java:26)- 访问set:key=123,value=456
+2017-06-27 21:45:43,517 DEBUG (StringRedisController.java:26)- 访问set:key=123,value=456
+2017-06-27 21:45:45,346 DEBUG (StringRedisController.java:26)- 访问set:key=123,value=456
+2017-06-27 21:45:47,686 DEBUG (StringRedisController.java:33)- 访问get:key=123
+2017-06-27 23:47:49,956 DEBUG (HelloController.java:15)- 访问hello
+2017-06-27 23:48:35,151 DEBUG (ObjectRedisController.java:21)- 访问setPerson:id=1001,name=test01,age=18
+2017-06-27 23:52:11,188 DEBUG (ObjectRedisController.java:21)- 访问setPerson:id=1001,name=test01,age=18
+2017-06-27 23:52:11,231 DEBUG (ObjectRedisController.java:21)- 访问setPerson:id=1001,name=test01,age=18

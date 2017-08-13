@@ -1,0 +1,12 @@
+2017-06-25 23:39:42,765 INFO (StartupInfoLogger.java:48)- Starting SpringbootWebtestApplication on SC-201705272022 with PID 14016 (D:\workspace\springboot-webtest\target\classes started by Administrator in D:\workspace\springboot-webtest)
+2017-06-25 23:39:42,765 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2017-06-25 23:39:42,766 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-06-25 23:39:44,396 INFO (StartupInfoLogger.java:57)- Started SpringbootWebtestApplication in 1.8 seconds (JVM running for 2.101)
+2017-06-25 23:44:31,508 INFO (StartupInfoLogger.java:48)- Starting SpringbootWebtestApplication on SC-201705272022 with PID 15088 (D:\workspace\springboot-webtest\target\classes started by Administrator in D:\workspace\springboot-webtest)
+2017-06-25 23:44:31,509 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2017-06-25 23:44:31,509 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-06-25 23:44:33,491 INFO (StartupInfoLogger.java:57)- Started SpringbootWebtestApplication in 2.18 seconds (JVM running for 2.782)
+2017-06-25 23:44:51,573 DEBUG (HelloController.java:21)- 访问helloName,Name=上帝
+2017-06-25 23:45:02,191 DEBUG (HelloController.java:21)- 访问helloName,Name=萨洛克
+2017-06-25 23:47:09,702 DEBUG (HelloController.java:21)- 访问helloName,Name=萨洛克
+2017-06-25 23:47:12,152 DEBUG (HelloController.java:21)- 访问helloName,Name=萨洛克
